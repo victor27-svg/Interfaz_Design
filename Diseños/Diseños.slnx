@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Design/">
+    <Project Path="Diseños/Diseños.csproj" Id="eaf3acca-c82d-42b5-8763-dc0035031e1a" />
+    <Project Path="Home/Home.csproj" Id="d59dca4a-95c2-4175-ac58-afe892830d0d" />
+  </Folder>
+</Solution>
